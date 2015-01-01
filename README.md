@@ -1,4 +1,4 @@
 JingyuYoung.github.io
 =====================
 
-靖宇的GibHub博客
+靖宇的GitHub博客
